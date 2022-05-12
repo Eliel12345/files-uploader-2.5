@@ -1,10 +1,10 @@
 {
 	"name": "Sorteos Bot",
-	"description": "Bot creado para el grupo de sorteos de nubes y bots",
+	"description": "Bot de subida a las nubes moodle",
 	"env": {
 		"tg_admin_user": {
 			"description": "Administrador del bot",
-			"value": "OrdielVictor"
+			"value": "Eliel_010"
 		},
 		"bot_token": {
 			"description": "Token del bot",
