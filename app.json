@@ -1,0 +1,14 @@
+{
+	"name": "Sorteos Bot",
+	"description": "Bot creado para el grupo de sorteos de nubes y bots",
+	"env": {
+		"tg_admin_user": {
+			"description": "Administrador del bot",
+			"value": "OrdielVictor"
+		},
+		"bot_token": {
+			"description": "Token del bot",
+			"value": ""
+		}
+	}
+}
